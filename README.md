@@ -1,10 +1,43 @@
-# Angular11Crud
+# Angular 10 CRUD application example with Web API
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+For instruction, please visit:
+> [Angular 11 CRUD Application example with Web API](https://bezkoder.com/angular-11-crud-app/)
+
+More practice:
+> [Angular 10 Pagination example | ngx-pagination](https://github.com/bezkoder/angular-10-pagination-example)
+
+> [Angular 10 File Upload example with progress bar](https://bezkoder.com/angular-10-file-upload/)
+
+Fullstack with Node.js Express:
+> [Angular 11 + Node.js Express + MySQL](https://bezkoder.com/angular-11-node-js-express-mysql/)
+
+> [Angular 11 + Node.js Express + PostgreSQL](https://bezkoder.com/angular-11-node-js-express-postgresql/)
+
+> [Angular 10 + Node.js Express + MongoDB](https://bezkoder.com/angular-10-mongodb-node-express/)
+
+Fullstack with Spring Boot:
+> [Angular 11 + Spring Boot + MySQL](https://bezkoder.com/angular-11-spring-boot-crud/)
+
+> [Angular 10 + Spring Boot + PostgreSQL](https://bezkoder.com/angular-10-spring-boot-postgresql/)
+
+> [Angular 10 + Spring Boot + MongoDB](https://bezkoder.com/angular-10-spring-boot-mongodb/)
+
+Fullstack with Django:
+> [Angular 10 + Django Rest Framework](https://bezkoder.com/django-angular-10-crud-rest-framework/)
+
+Serverless with Firebase:
+> [Angular 10 Firebase CRUD with Realtime Database](https://bezkoder.com/angular-10-firebase-crud/)
+
+> [Angular 10 Firestore CRUD | AngularFireStore](https://bezkoder.com/angular-10-firestore-crud-angularfire/)
+
+Integration (run back-end & front-end on same server/port)
+> [How to Integrate Angular 10 with Node.js Restful Services](https://bezkoder.com/integrate-angular-10-node-js/)
+
+> [How to Integrate Angular with Spring Boot Rest API](https://bezkoder.com/integrate-angular-spring-boot/)
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
@@ -24,4 +57,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
