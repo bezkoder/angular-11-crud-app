@@ -4,9 +4,11 @@ For instruction, please visit:
 > [Angular 11 CRUD Application example with Web API](https://bezkoder.com/angular-11-crud-app/)
 
 More practice:
-> [Angular 10 Pagination example | ngx-pagination](https://github.com/bezkoder/angular-10-pagination-example)
+> [Angular 11 Pagination example using ngx-pagination](https://bezkoder.com/angular-11-pagination-ngx/)
 
-> [Angular 10 File Upload example with progress bar](https://bezkoder.com/angular-10-file-upload/)
+> [Angular 11 File Upload example with progress bar](https://bezkoder.com/angular-11-file-upload/)
+
+> [Angular 11 JWT Authentication example with Web Api](https://github.com/bezkoder/angular-11-jwt-authentication)
 
 Fullstack with Node.js Express:
 > [Angular 11 + Node.js Express + MySQL](https://bezkoder.com/angular-11-node-js-express-mysql/)
@@ -15,12 +17,18 @@ Fullstack with Node.js Express:
 
 > [Angular 11 + Node.js Express + MongoDB](https://bezkoder.com/angular-11-mongodb-node-js-express/)
 
+> [Angular 11 + Node.js Express: JWT Authentication & Authorization example](https://bezkoder.com/node-js-angular-11-jwt-authentication/)
+
 Fullstack with Spring Boot:
 > [Angular 11 + Spring Boot + MySQL](https://bezkoder.com/angular-11-spring-boot-crud/)
 
 > [Angular 11 + Spring Boot + PostgreSQL](https://bezkoder.com/angular-11-spring-boot-postgresql/)
 
 > [Angular 11 + Spring Boot + MongoDB](https://bezkoder.com/angular-11-spring-boot-mongodb/)
+
+> [Angular 11 + Spring Boot: File upload example](https://bezkoder.com/angular-11-spring-boot-file-upload/)
+
+> [Angular 11 + Spring Boot: JWT Authentication & Authorization example](https://bezkoder.com/angular-11-spring-boot-jwt-auth/)
 
 Fullstack with Django:
 > [Angular 11 + Django Rest Framework](https://bezkoder.com/django-angular-11-crud-rest-framework/)
@@ -34,10 +42,12 @@ Serverless with Firebase:
 
 > [Angular 11 Firestore CRUD | AngularFireStore](https://bezkoder.com/angular-11-firestore-crud-angularfirestore/)
 
-Integration (run back-end & front-end on same server/port)
-> [How to Integrate Angular 10 with Node.js Restful Services](https://bezkoder.com/integrate-angular-10-node-js/)
+> [Angular 11 Upload File to Firebase Storage example](https://bezkoder.com/angular-11-file-upload-firebase-storage/)
 
-> [How to Integrate Angular with Spring Boot Rest API](https://bezkoder.com/integrate-angular-spring-boot/)
+Integration (run back-end & front-end on same server/port)
+> [How to Integrate Angular with Node.js Restful Services](https://bezkoder.com/integrate-angular-10-node-js/)
+
+> [How to Integrate Angular 11 with Spring Boot Rest API](https://bezkoder.com/integrate-angular-11-spring-boot/)
 
 ## Development server
 
