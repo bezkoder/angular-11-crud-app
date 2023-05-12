@@ -13,6 +13,7 @@
  *
  * Learn more in https://angular.io/guide/browser-support
  */
+
 /***************************************************************************************************
  * BROWSER POLYFILLS
  */
